@@ -1,2 +1,3 @@
-# DesignPatterns
-&lt;디자인 패턴>을 스터디 하며, 공부한 내용을 정리한 것입니다.
+# Design Patterns
+<img width="420" alt="image" src="https://github.com/HJC96/DesignPatterns/assets/87226129/a9601916-877f-46be-b79d-b05c6319c201">
+
