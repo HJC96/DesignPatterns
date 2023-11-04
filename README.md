@@ -9,7 +9,7 @@
 ---
 - **객체 생성 관련 패턴**
     - [싱글톤 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%8B%B1%EA%B8%80%ED%86%A4.md)
-    - 팩토리 메소드 패턴
+    - [팩토리 메소드 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
     - 추상 팩토리 패턴
     - 빌더 패턴
     - 포로토타입 패턴
