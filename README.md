@@ -5,7 +5,6 @@
 
 
 하기 항목들은 공부한 내용을 정리한 것입니다.
-
 ---
 - **객체 생성 관련 패턴**
     - [싱글톤 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%8B%B1%EA%B8%80%ED%86%A4.md)
