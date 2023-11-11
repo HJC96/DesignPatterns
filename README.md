@@ -10,7 +10,7 @@
     - [싱글톤 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%8B%B1%EA%B8%80%ED%86%A4.md)
     - [팩토리 메소드 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
     - 추상 팩토리 패턴
-    - 빌더 패턴
+    - [빌더 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EB%B9%8C%EB%8D%94%20%ED%8C%A8%ED%84%B4.md)
     - 포로토타입 패턴
 - **구조 관련 패턴**
     - 어댑터 패턴
