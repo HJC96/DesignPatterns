@@ -15,7 +15,7 @@
 - **구조 관련 패턴**
     - [어댑터 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
     - [브릿지 패턴]()
-    - [컴포짓 패턴]()
+    - [컴포짓 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%BB%B4%ED%8F%AC%EC%A7%93%20%ED%8C%A8%ED%84%B4.md)
     - [데코레이터 패턴]()
     - 퍼사드 패턴
     - 플라이웨이트 패턴
