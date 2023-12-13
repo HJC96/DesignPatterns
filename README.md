@@ -14,7 +14,7 @@
     - [포로토타입 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 - **구조 관련 패턴**
     - [어댑터 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
-    - [브릿지 패턴]()
+    - [브릿지 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EB%B8%8C%EB%A6%BF%EC%A7%80%20%ED%8C%A8%ED%84%B4.md)
     - [컴포짓 패턴](https://github.com/HJC96/DesignPatterns/blob/main/List/%EC%BB%B4%ED%8F%AC%EC%A7%93%20%ED%8C%A8%ED%84%B4.md)
     - [데코레이터 패턴]()
     - [퍼사드 패턴]()
